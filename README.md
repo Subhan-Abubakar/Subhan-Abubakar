@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0F1020,35:312E81,70:6D28D9,100:8B5CF6&text=Subhan%20Abubakar&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Automation%20%7C%20Full%20Stack%20Development%20%7C%20Operations%20Technology&descSize=17&descAlignY=57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:060711,30:1E1B4B,60:4C1D95,85:7C3AED,100:A78BFA&text=Subhan%20Abubakar&fontSize=60&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Automation%20%7C%20Full%20Stack%20Builder%20%7C%20Operations%20Technology&descSize=17&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+Production-Ready+Software+Systems;AI+Automation+%26+Full+Stack+Product+Engineering;Industrial+ERP+%7C+Shopify+%7C+Cloud+%7C+Internal+Tools;Where+Software+Engineering+Meets+Real+Business+Operations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+Production-Ready+Software+Systems;AI+Automation+%26+Full+Stack+Product+Engineering;Industrial+ERP+%7C+Shopify+%7C+Cloud+%7C+Internal+Tools;Leveling+Up+Real-World+Operations+With+Code" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -17,31 +17,41 @@
 <br/>
 <br/>
 
-<a href="https://subhanabubakar.github.io">
+<a href="https://subi-versee.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-SUBi%20VERSE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/subhan-abubakar">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:subhanabubakar@gmail.com">
+<a href="mailto:subhanabubakar19@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/subhanabubakar">
+<a href="https://www.instagram.com/subi_verse">
+  <img src="https://img.shields.io/badge/Instagram-SUBi%20VERSE-C026D3?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/Subhan-Abubakar">
   <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=subhanabubakar&style=flat-square&color=8B5CF6&label=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/subhanabubakar?style=flat-square&color=6D28D9&labelColor=111827&label=Followers&logo=github" />
-<img src="https://img.shields.io/github/stars/subhanabubakar?style=flat-square&color=4F46E5&labelColor=111827&label=Stars&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Subhan-Abubakar&style=flat-square&color=8B5CF6&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/Subhan-Abubakar?style=flat-square&color=6D28D9&labelColor=111827&label=Followers&logo=github" />
+<img src="https://img.shields.io/github/stars/Subhan-Abubakar/Subhan-Abubakar?style=flat-square&color=4F46E5&labelColor=111827&label=Profile%20Repo%20Stars&logo=github" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Build%20Mode-Always%20Shipping-7C3AED?style=flat-square&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Game%20Mode-Strategic%20Builder-312E81?style=flat-square&logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/Mindset-Engineer%20Like%20A%20Boss%20Fight-1E1B4B?style=flat-square&logo=target&logoColor=white" />
 
 </div>
 
 ---
 
-## About
+## Player Profile
 
 I am a software engineer focused on building practical, scalable, and production-ready digital systems across **full stack development, AI automation, ERP platforms, Shopify engineering, and industrial operations technology**.
 
@@ -53,7 +63,7 @@ I bring a rare mix of **computer science, product engineering, manufacturing ope
 
 ---
 
-## Tech Stack
+## Loadout
 
 <div align="center">
 
@@ -86,11 +96,11 @@ I bring a rare mix of **computer science, product engineering, manufacturing ope
 
 ---
 
-## AI / ML Expertise
+## AI / ML Skill Tree
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |:---|:---:|:---|
 | **Machine Learning** | Advanced | Classification, clustering, preprocessing, model evaluation, business-focused ML workflows |
 | **AI Automation** | Advanced | AI-powered tools, prompt systems, agent workflows, operational automation |
@@ -105,7 +115,7 @@ I bring a rare mix of **computer science, product engineering, manufacturing ope
 
 ---
 
-## Featured Projects
+## Featured Quests
 
 <details>
 <summary><b>InkLine ERP — Flexible Packaging Converter ERP</b></summary>
@@ -121,7 +131,7 @@ A full ERP system concept built for flexible packaging converter operations, des
 | **Performance** | Structured workflows designed for fast job lookup and low-friction daily use |
 | **Security** | Role-based access, admin permissions, controlled edit/view rights |
 | **Impact** | Reduces planning gaps, improves material readiness, and supports live operational visibility |
-| **Repository** | [View Repository](https://github.com/subhanabubakar/inkline-erp) |
+| **Repository** | [View Repository](https://github.com/Subhan-Abubakar/inkline-erp) |
 
 Built with a factory-first mindset, this system converts real production challenges into practical software workflows. It focuses on planning accuracy, material availability, department coordination, and management-level visibility.
 
@@ -143,7 +153,7 @@ A real-time internal communication platform built for a manufacturing environmen
 | **Performance** | Real-time messaging, presence tracking, and fast lightweight interface |
 | **Security** | Authentication, admin control, session handling, force logout concepts |
 | **Impact** | Improves communication flow inside operational teams |
-| **Repository** | [View Repository](https://github.com/subhanabubakar/ispconnect) |
+| **Repository** | [View Repository](https://github.com/Subhan-Abubakar/ispconnect) |
 
 The platform is designed for a practical workplace environment where communication speed, reliability, and simple controls matter. It replaces fragmented communication with a more structured internal system.
 
@@ -165,7 +175,7 @@ A deep learning based cybersecurity project focused on detecting network intrusi
 | **Performance** | CNN + GRU based experimentation for high-accuracy classification |
 | **Security** | Network anomaly detection and cloud threat identification |
 | **Impact** | Demonstrates AI-driven security monitoring for cloud environments |
-| **Repository** | [View Repository](https://github.com/subhanabubakar/ai-cloud-intrusion-detection) |
+| **Repository** | [View Repository](https://github.com/Subhan-Abubakar/ai-cloud-intrusion-detection) |
 
 This project explores how deep learning can support cloud security by identifying abnormal network behavior and classifying potential attack categories.
 
@@ -187,7 +197,7 @@ A machine learning project focused on customer segmentation, behavioral grouping
 | **Performance** | Efficient clustering workflow with K-Means and evaluation methods |
 | **Security** | Structured preprocessing and careful handling of customer attributes |
 | **Impact** | Helps businesses identify customer groups for marketing and decision-making |
-| **Repository** | [View Repository](https://github.com/subhanabubakar/customer-segmentation-kmeans) |
+| **Repository** | [View Repository](https://github.com/Subhan-Abubakar/customer-segmentation-kmeans) |
 
 The project converts raw customer data into meaningful business segments, helping support marketing strategy, targeting, and customer behavior understanding.
 
@@ -209,7 +219,8 @@ A modern portfolio and brand platform built to present development services, tec
 | **Performance** | Lightweight static-first deployment with responsive interface |
 | **Security** | Static hosting architecture with minimal attack surface |
 | **Impact** | Improves professional presence, client trust, and project visibility |
-| **Repository** | [View Repository](https://github.com/subhanabubakar/subi-verse) |
+| **Live** | [Visit Portfolio](https://subi-versee.netlify.app/) |
+| **Repository** | [View Repository](https://github.com/Subhan-Abubakar/subi-verse) |
 
 The platform combines branding, frontend engineering, clean UI structure, and service positioning to create a strong digital identity for freelance and software work.
 
@@ -239,7 +250,7 @@ The project focused on practical ecommerce improvements including product titlin
 
 ---
 
-## Experience
+## Campaign Log
 
 ### Software Engineering & Operations Technology  
 **Irshad Saeed Packaging Pvt. Ltd.**  
@@ -294,7 +305,7 @@ Contributed to digital content workflows, product communication, campaign execut
 
 ---
 
-## Achievements
+## Achievements Unlocked
 
 <div align="center">
 
@@ -348,20 +359,20 @@ Contributed to digital content workflows, product communication, campaign execut
 
 ---
 
-## Coding Profiles
+## Coding Arenas
 
 <div align="center">
 
-<a href="https://leetcode.com/subhanabubakar">
+<a href="https://leetcode.com/Subhan-Abubakar">
   <img src="https://img.shields.io/badge/LeetCode-Profile-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=111827" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/subhanabubakar">
+<a href="https://www.geeksforgeeks.org/user/Subhan-Abubakar">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=111827" />
 </a>
-<a href="https://www.hackerrank.com/subhanabubakar">
+<a href="https://www.hackerrank.com/Subhan-Abubakar">
   <img src="https://img.shields.io/badge/HackerRank-Profile-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=111827" />
 </a>
-<a href="https://www.codechef.com/users/subhanabubakar">
+<a href="https://www.codechef.com/users/Subhan-Abubakar">
   <img src="https://img.shields.io/badge/CodeChef-Profile-111827?style=for-the-badge&logo=codechef&logoColor=white&labelColor=111827" />
 </a>
 
@@ -373,13 +384,13 @@ Contributed to digital content workflows, product communication, campaign execut
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=subhanabubakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=subhanabubakar&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=E5E7EB" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhan-Abubakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=Subhan-Abubakar&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=E5E7EB" alt="GitHub Streak" />
 
 <br/>
 <br/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanabubakar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Top Languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhan-Abubakar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -389,7 +400,7 @@ Contributed to digital content workflows, product communication, campaign execut
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=subhanabubakar&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Subhan-Abubakar&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -399,17 +410,7 @@ Contributed to digital content workflows, product communication, campaign execut
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=subhanabubakar&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/subhanabubakar/subhanabubakar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Subhan-Abubakar&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -439,7 +440,12 @@ Exploring:
   - Data-Driven Manufacturing Workflows
   - Open Source Developer Tools
 
-Open To:
+Game_Mode:
+  - Strategy over speed
+  - Boss fights over comfort zones
+  - Ship, learn, upgrade, repeat
+
+Open_To:
   - Software Engineering Roles
   - Full Stack Development Projects
   - AI Automation Consulting
@@ -453,17 +459,20 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:subhanabubakar@gmail.com">
+<a href="mailto:subhanabubakar19@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/subhan-abubakar">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/subhanabubakar">
+<a href="https://www.instagram.com/subi_verse">
+  <img src="https://img.shields.io/badge/Instagram-SUBi%20VERSE-C026D3?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/Subhan-Abubakar">
   <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://subhanabubakar.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-SUBi%20VERSE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://subi-versee.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
@@ -474,6 +483,10 @@ Open To:
 
 **Engineering software where industrial operations, intelligent automation, and product-grade systems meet.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8B5CF6,35:6D28D9,70:312E81,100:0F1020" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Strategy.+Execution.+Iteration.;Every+system+is+a+level.+Every+bug+is+a+boss+fight.;Ship+the+build.+Upgrade+the+stack." alt="Footer Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:A78BFA,30:7C3AED,70:312E81,100:060711" />
 
 </div>
